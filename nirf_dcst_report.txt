@@ -1,0 +1,7 @@
+==============================================
+NIRF REPORT - DCST GOA UNIVERSITY
+==============================================
+ACT001,ISA (In-Semester Assessment),ACADEMIC,Continuous internal evaluation
+ACT002,SEA (Semester End Assessment),ACADEMIC,Final term theory & practical examinations
+ACT003,Midpoint Seminar,ACADEMIC,M.Tech & MCA dissertation review evaluation
+ACT004,Industrial Study Tour,ACADEMIC,Exposure visit to tech hubs
